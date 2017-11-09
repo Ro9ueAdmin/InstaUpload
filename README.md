@@ -14,13 +14,6 @@ Download image file from URL and upload with custom caption profiles to instagra
     python insta_upload.py -u -p nature -c NameCredit
 ```
 
-#### Known issues:
-```
-* only JPG support
-* cannot download image from instagram URLs
-* this -c command only accepts one-liner
-```
-
 #### Download Instagram API:
 ```
 https://github.com/LevPasha/Instagram-API-python
@@ -28,4 +21,11 @@ https://github.com/LevPasha/Instagram-API-python
 #### Install Instagram API:
 ```
 pip install -r requirements.txt
+```
+
+#### Known issues:
+```
+* only JPG support
+* cannot download image from instagram URLs
+* this -c command only accepts one-liner
 ```
