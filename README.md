@@ -21,7 +21,11 @@ Download image file from URL and upload with custom caption profiles to instagra
 * this -c command only accepts one-liner
 ```
 
-#### Instagram API:
+#### Download Instagram API:
 ```
 https://github.com/LevPasha/Instagram-API-python
+```
+#### Install Instagram API:
+```
+pip install -r requirements.txt
 ```
