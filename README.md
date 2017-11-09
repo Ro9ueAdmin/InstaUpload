@@ -8,7 +8,7 @@ Upload a image with custom caption to instagram bot
 -c <cred for upload>
 
  Usage:
-    python bot_upload.py -d <url>
-    python bot_upload.py -u -p art -c NameCredit
-    python bot_upload.py -u -p nature -c NameCredit
+    python insta_upload.py -d <url>
+    python insta_upload.py -u -p art -c NameCredit
+    python insta_upload.py -u -p nature -c NameCredit
 ```
