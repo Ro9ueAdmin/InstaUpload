@@ -20,3 +20,8 @@ Download image file from URL and upload with custom caption profiles to instagra
 * cannot download image from instagram URLs
 * this -c command only accepts one-liner
 ```
+
+#### Instagram API:
+```
+https://github.com/LevPasha/Instagram-API-python
+```
